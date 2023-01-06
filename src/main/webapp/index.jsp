@@ -13,7 +13,7 @@
             <div class="container">
                 <%@include file="navbar.jsp"%>
                 <br>
-                <h1>This is Home page</h1>
+                <h1>This is Home </h1>
             </div>
     </body>
 </html>
